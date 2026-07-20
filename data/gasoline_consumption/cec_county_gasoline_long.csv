@@ -1,0 +1,841 @@
+county_name,year,gallons_millions
+Alameda,2010,551.0
+Alameda,2011,548.0
+Alameda,2012,568.0
+Alameda,2013,603.0
+Alameda,2014,491.0
+Alameda,2015,542.0
+Alameda,2016,582.0
+Alameda,2017,583.0
+Alameda,2018,569.0
+Alameda,2019,591.0
+Alameda,2020,442.0
+Alameda,2021,492.0
+Alameda,2022,473.0
+Alameda,2023,468.0
+Alameda,2024,456.0
+Amador,2010,15.0
+Amador,2011,14.0
+Amador,2012,14.0
+Amador,2013,12.0
+Amador,2014,15.0
+Amador,2015,13.0
+Amador,2016,14.0
+Amador,2017,15.0
+Amador,2018,17.0
+Amador,2019,18.0
+Amador,2020,13.0
+Amador,2021,14.0
+Amador,2022,13.0
+Amador,2023,12.0
+Amador,2024,12.0
+Butte,2010,81.0
+Butte,2011,81.0
+Butte,2012,78.0
+Butte,2013,81.0
+Butte,2014,85.0
+Butte,2015,78.0
+Butte,2016,83.0
+Butte,2017,87.0
+Butte,2018,86.0
+Butte,2019,78.0
+Butte,2020,68.0
+Butte,2021,74.0
+Butte,2022,63.0
+Butte,2023,71.0
+Butte,2024,64.0
+Calaveras,2010,14.0
+Calaveras,2011,14.0
+Calaveras,2012,12.0
+Calaveras,2013,13.0
+Calaveras,2014,14.0
+Calaveras,2015,14.0
+Calaveras,2016,15.0
+Calaveras,2017,15.0
+Calaveras,2018,15.0
+Calaveras,2019,15.0
+Calaveras,2020,15.0
+Calaveras,2021,13.0
+Calaveras,2022,15.0
+Calaveras,2023,14.0
+Calaveras,2024,16.0
+Colusa,2010,17.0
+Colusa,2011,11.0
+Colusa,2012,10.0
+Colusa,2013,13.0
+Colusa,2014,10.0
+Colusa,2015,9.0
+Colusa,2016,11.0
+Colusa,2017,12.0
+Colusa,2018,13.0
+Colusa,2019,13.0
+Colusa,2020,15.0
+Colusa,2021,16.0
+Colusa,2022,13.0
+Colusa,2023,11.0
+Colusa,2024,12.0
+Contra Costa,2010,403.0
+Contra Costa,2011,395.0
+Contra Costa,2012,419.0
+Contra Costa,2013,422.0
+Contra Costa,2014,392.0
+Contra Costa,2015,380.0
+Contra Costa,2016,431.0
+Contra Costa,2017,430.0
+Contra Costa,2018,397.0
+Contra Costa,2019,427.0
+Contra Costa,2020,336.0
+Contra Costa,2021,374.0
+Contra Costa,2022,396.0
+Contra Costa,2023,390.0
+Contra Costa,2024,382.0
+Del Norte,2010,8.0
+Del Norte,2011,7.0
+Del Norte,2012,7.0
+Del Norte,2013,5.0
+Del Norte,2014,7.0
+Del Norte,2015,6.0
+Del Norte,2016,7.0
+Del Norte,2017,7.0
+Del Norte,2018,7.0
+Del Norte,2019,6.0
+Del Norte,2020,5.0
+Del Norte,2021,5.0
+Del Norte,2022,4.0
+Del Norte,2023,4.0
+Del Norte,2024,3.0
+El Dorado,2010,68.0
+El Dorado,2011,67.0
+El Dorado,2012,75.0
+El Dorado,2013,72.0
+El Dorado,2014,52.0
+El Dorado,2015,81.0
+El Dorado,2016,81.0
+El Dorado,2017,82.0
+El Dorado,2018,76.0
+El Dorado,2019,74.0
+El Dorado,2020,62.0
+El Dorado,2021,65.0
+El Dorado,2022,66.0
+El Dorado,2023,67.0
+El Dorado,2024,65.0
+Fresno,2010,342.0
+Fresno,2011,335.0
+Fresno,2012,341.0
+Fresno,2013,344.0
+Fresno,2014,300.0
+Fresno,2015,331.0
+Fresno,2016,358.0
+Fresno,2017,367.0
+Fresno,2018,368.0
+Fresno,2019,376.0
+Fresno,2020,347.0
+Fresno,2021,387.0
+Fresno,2022,371.0
+Fresno,2023,372.0
+Fresno,2024,378.0
+Glenn,2010,14.0
+Glenn,2011,14.0
+Glenn,2012,12.0
+Glenn,2013,14.0
+Glenn,2014,16.0
+Glenn,2015,16.0
+Glenn,2016,17.0
+Glenn,2017,18.0
+Glenn,2018,17.0
+Glenn,2019,18.0
+Glenn,2020,15.0
+Glenn,2021,17.0
+Glenn,2022,14.0
+Glenn,2023,15.0
+Glenn,2024,15.0
+Humboldt,2010,54.0
+Humboldt,2011,54.0
+Humboldt,2012,53.0
+Humboldt,2013,64.0
+Humboldt,2014,44.0
+Humboldt,2015,59.0
+Humboldt,2016,61.0
+Humboldt,2017,55.0
+Humboldt,2018,58.0
+Humboldt,2019,53.0
+Humboldt,2020,56.0
+Humboldt,2021,52.0
+Humboldt,2022,45.0
+Humboldt,2023,42.0
+Humboldt,2024,30.0
+Imperial,2010,69.0
+Imperial,2011,60.0
+Imperial,2012,54.0
+Imperial,2013,58.0
+Imperial,2014,83.0
+Imperial,2015,79.0
+Imperial,2016,86.0
+Imperial,2017,83.0
+Imperial,2018,89.0
+Imperial,2019,86.0
+Imperial,2020,64.0
+Imperial,2021,74.0
+Imperial,2022,66.0
+Imperial,2023,74.0
+Imperial,2024,75.0
+Inyo,2010,19.0
+Inyo,2011,18.0
+Inyo,2012,16.0
+Inyo,2013,16.0
+Inyo,2014,17.0
+Inyo,2015,18.0
+Inyo,2016,18.0
+Inyo,2017,18.0
+Inyo,2018,18.0
+Inyo,2019,17.0
+Inyo,2020,16.0
+Inyo,2021,15.0
+Inyo,2022,15.0
+Inyo,2023,15.0
+Inyo,2024,15.0
+Kern,2010,362.0
+Kern,2011,359.0
+Kern,2012,356.0
+Kern,2013,367.0
+Kern,2014,384.0
+Kern,2015,375.0
+Kern,2016,407.0
+Kern,2017,390.0
+Kern,2018,396.0
+Kern,2019,392.0
+Kern,2020,364.0
+Kern,2021,406.0
+Kern,2022,395.0
+Kern,2023,401.0
+Kern,2024,406.0
+Kings,2010,51.0
+Kings,2011,48.0
+Kings,2012,47.0
+Kings,2013,49.0
+Kings,2014,45.0
+Kings,2015,51.0
+Kings,2016,57.0
+Kings,2017,60.0
+Kings,2018,60.0
+Kings,2019,76.0
+Kings,2020,52.0
+Kings,2021,58.0
+Kings,2022,58.0
+Kings,2023,55.0
+Kings,2024,55.0
+Lake,2010,25.0
+Lake,2011,22.0
+Lake,2012,20.0
+Lake,2013,24.0
+Lake,2014,25.0
+Lake,2015,23.0
+Lake,2016,21.0
+Lake,2017,21.0
+Lake,2018,23.0
+Lake,2019,24.0
+Lake,2020,20.0
+Lake,2021,20.0
+Lake,2022,18.0
+Lake,2023,19.0
+Lake,2024,18.0
+Lassen,2010,7.0
+Lassen,2011,7.0
+Lassen,2012,6.0
+Lassen,2013,6.0
+Lassen,2014,8.0
+Lassen,2015,9.0
+Lassen,2016,8.0
+Lassen,2017,6.0
+Lassen,2018,5.0
+Lassen,2019,7.0
+Lassen,2020,6.0
+Lassen,2021,7.0
+Lassen,2022,6.0
+Lassen,2023,6.0
+Lassen,2024,6.0
+Los Angeles,2010,3658.0
+Los Angeles,2011,3554.0
+Los Angeles,2012,3451.0
+Los Angeles,2013,3445.0
+Los Angeles,2014,3749.0
+Los Angeles,2015,3465.0
+Los Angeles,2016,3577.0
+Los Angeles,2017,3659.0
+Los Angeles,2018,3638.0
+Los Angeles,2019,3559.0
+Los Angeles,2020,2770.0
+Los Angeles,2021,3061.0
+Los Angeles,2022,3070.0
+Los Angeles,2023,3039.0
+Los Angeles,2024,2987.0
+Madera,2010,57.0
+Madera,2011,61.0
+Madera,2012,53.0
+Madera,2013,54.0
+Madera,2014,45.0
+Madera,2015,44.0
+Madera,2016,59.0
+Madera,2017,62.0
+Madera,2018,57.0
+Madera,2019,62.0
+Madera,2020,63.0
+Madera,2021,71.0
+Madera,2022,67.0
+Madera,2023,69.0
+Madera,2024,63.0
+Marin,2010,94.0
+Marin,2011,103.0
+Marin,2012,107.0
+Marin,2013,106.0
+Marin,2014,75.0
+Marin,2015,105.0
+Marin,2016,102.0
+Marin,2017,101.0
+Marin,2018,82.0
+Marin,2019,96.0
+Marin,2020,77.0
+Marin,2021,88.0
+Marin,2022,86.0
+Marin,2023,91.0
+Marin,2024,86.0
+Mariposa,2010,7.0
+Mariposa,2011,7.0
+Mariposa,2012,6.0
+Mariposa,2013,5.0
+Mariposa,2014,9.0
+Mariposa,2015,6.0
+Mariposa,2016,8.0
+Mariposa,2017,6.0
+Mariposa,2018,7.0
+Mariposa,2019,8.0
+Mariposa,2020,5.0
+Mariposa,2021,7.0
+Mariposa,2022,6.0
+Mariposa,2023,7.0
+Mariposa,2024,6.0
+Mendocino,2010,41.0
+Mendocino,2011,40.0
+Mendocino,2012,43.0
+Mendocino,2013,42.0
+Mendocino,2014,40.0
+Mendocino,2015,40.0
+Mendocino,2016,42.0
+Mendocino,2017,38.0
+Mendocino,2018,40.0
+Mendocino,2019,44.0
+Mendocino,2020,37.0
+Mendocino,2021,39.0
+Mendocino,2022,36.0
+Mendocino,2023,37.0
+Mendocino,2024,35.0
+Merced,2010,106.0
+Merced,2011,95.0
+Merced,2012,92.0
+Merced,2013,94.0
+Merced,2014,83.0
+Merced,2015,105.0
+Merced,2016,114.0
+Merced,2017,117.0
+Merced,2018,132.0
+Merced,2019,119.0
+Merced,2020,106.0
+Merced,2021,122.0
+Merced,2022,120.0
+Merced,2023,120.0
+Merced,2024,120.0
+Mono,2010,7.0
+Mono,2011,6.0
+Mono,2012,2.0
+Mono,2013,8.0
+Mono,2014,8.0
+Mono,2015,7.0
+Mono,2016,8.0
+Mono,2017,5.0
+Mono,2018,7.0
+Mono,2019,8.0
+Mono,2020,7.0
+Mono,2021,6.0
+Mono,2022,6.0
+Mono,2023,6.0
+Mono,2024,6.0
+Monterey,2010,152.0
+Monterey,2011,155.0
+Monterey,2012,147.0
+Monterey,2013,177.0
+Monterey,2014,126.0
+Monterey,2015,184.0
+Monterey,2016,177.0
+Monterey,2017,174.0
+Monterey,2018,181.0
+Monterey,2019,174.0
+Monterey,2020,141.0
+Monterey,2021,162.0
+Monterey,2022,174.0
+Monterey,2023,157.0
+Monterey,2024,162.0
+Napa,2010,52.0
+Napa,2011,47.0
+Napa,2012,58.0
+Napa,2013,52.0
+Napa,2014,39.0
+Napa,2015,63.0
+Napa,2016,57.0
+Napa,2017,53.0
+Napa,2018,61.0
+Napa,2019,57.0
+Napa,2020,44.0
+Napa,2021,47.0
+Napa,2022,49.0
+Napa,2023,47.0
+Napa,2024,56.0
+Nevada,2010,42.0
+Nevada,2011,35.0
+Nevada,2012,34.0
+Nevada,2013,25.0
+Nevada,2014,27.0
+Nevada,2015,40.0
+Nevada,2016,40.0
+Nevada,2017,39.0
+Nevada,2018,38.0
+Nevada,2019,39.0
+Nevada,2020,36.0
+Nevada,2021,35.0
+Nevada,2022,32.0
+Nevada,2023,34.0
+Nevada,2024,32.0
+Orange,2010,1406.0
+Orange,2011,1338.0
+Orange,2012,1355.0
+Orange,2013,1332.0
+Orange,2014,1465.0
+Orange,2015,1370.0
+Orange,2016,1375.0
+Orange,2017,1382.0
+Orange,2018,1402.0
+Orange,2019,1325.0
+Orange,2020,1029.0
+Orange,2021,1159.0
+Orange,2022,1176.0
+Orange,2023,1150.0
+Orange,2024,1155.0
+Placer,2010,190.0
+Placer,2011,189.0
+Placer,2012,192.0
+Placer,2013,167.0
+Placer,2014,170.0
+Placer,2015,209.0
+Placer,2016,204.0
+Placer,2017,203.0
+Placer,2018,206.0
+Placer,2019,198.0
+Placer,2020,163.0
+Placer,2021,178.0
+Placer,2022,169.0
+Placer,2023,184.0
+Placer,2024,178.0
+Plumas,2010,7.0
+Plumas,2011,8.0
+Plumas,2012,7.0
+Plumas,2013,4.0
+Plumas,2014,8.0
+Plumas,2015,7.0
+Plumas,2016,5.0
+Plumas,2017,6.0
+Plumas,2018,6.0
+Plumas,2019,6.0
+Plumas,2020,6.0
+Plumas,2021,7.0
+Plumas,2022,8.0
+Plumas,2023,7.0
+Plumas,2024,8.0
+Riverside,2010,952.0
+Riverside,2011,916.0
+Riverside,2012,895.0
+Riverside,2013,925.0
+Riverside,2014,1010.0
+Riverside,2015,1039.0
+Riverside,2016,1035.0
+Riverside,2017,1052.0
+Riverside,2018,1052.0
+Riverside,2019,1046.0
+Riverside,2020,876.0
+Riverside,2021,981.0
+Riverside,2022,981.0
+Riverside,2023,980.0
+Riverside,2024,966.0
+Sacramento,2010,566.0
+Sacramento,2011,553.0
+Sacramento,2012,560.0
+Sacramento,2013,568.0
+Sacramento,2014,442.0
+Sacramento,2015,584.0
+Sacramento,2016,600.0
+Sacramento,2017,599.0
+Sacramento,2018,586.0
+Sacramento,2019,600.0
+Sacramento,2020,689.0
+Sacramento,2021,557.0
+Sacramento,2022,535.0
+Sacramento,2023,544.0
+Sacramento,2024,540.0
+San Benito,2010,18.0
+San Benito,2011,16.0
+San Benito,2012,20.0
+San Benito,2013,7.0
+San Benito,2014,14.0
+San Benito,2015,15.0
+San Benito,2016,17.0
+San Benito,2017,20.0
+San Benito,2018,17.0
+San Benito,2019,21.0
+San Benito,2020,18.0
+San Benito,2021,17.0
+San Benito,2022,14.0
+San Benito,2023,15.0
+San Benito,2024,14.0
+San Bernardino,2010,902.0
+San Bernardino,2011,871.0
+San Bernardino,2012,878.0
+San Bernardino,2013,889.0
+San Bernardino,2014,948.0
+San Bernardino,2015,909.0
+San Bernardino,2016,1010.0
+San Bernardino,2017,993.0
+San Bernardino,2018,990.0
+San Bernardino,2019,977.0
+San Bernardino,2020,823.0
+San Bernardino,2021,926.0
+San Bernardino,2022,915.0
+San Bernardino,2023,897.0
+San Bernardino,2024,920.0
+San Diego,2010,1320.0
+San Diego,2011,1291.0
+San Diego,2012,1277.0
+San Diego,2013,1241.0
+San Diego,2014,1352.0
+San Diego,2015,1408.0
+San Diego,2016,1372.0
+San Diego,2017,1377.0
+San Diego,2018,1387.0
+San Diego,2019,1325.0
+San Diego,2020,1055.0
+San Diego,2021,1165.0
+San Diego,2022,1146.0
+San Diego,2023,1125.0
+San Diego,2024,1114.0
+San Francisco,2010,138.0
+San Francisco,2011,151.0
+San Francisco,2012,149.0
+San Francisco,2013,161.0
+San Francisco,2014,102.0
+San Francisco,2015,134.0
+San Francisco,2016,134.0
+San Francisco,2017,134.0
+San Francisco,2018,120.0
+San Francisco,2019,118.0
+San Francisco,2020,91.0
+San Francisco,2021,99.0
+San Francisco,2022,97.0
+San Francisco,2023,97.0
+San Francisco,2024,94.0
+San Joaquin,2010,303.0
+San Joaquin,2011,301.0
+San Joaquin,2012,299.0
+San Joaquin,2013,325.0
+San Joaquin,2014,312.0
+San Joaquin,2015,360.0
+San Joaquin,2016,340.0
+San Joaquin,2017,347.0
+San Joaquin,2018,336.0
+San Joaquin,2019,352.0
+San Joaquin,2020,292.0
+San Joaquin,2021,321.0
+San Joaquin,2022,317.0
+San Joaquin,2023,323.0
+San Joaquin,2024,326.0
+San Luis Obispo,2010,147.0
+San Luis Obispo,2011,144.0
+San Luis Obispo,2012,124.0
+San Luis Obispo,2013,140.0
+San Luis Obispo,2014,145.0
+San Luis Obispo,2015,147.0
+San Luis Obispo,2016,142.0
+San Luis Obispo,2017,142.0
+San Luis Obispo,2018,150.0
+San Luis Obispo,2019,138.0
+San Luis Obispo,2020,115.0
+San Luis Obispo,2021,125.0
+San Luis Obispo,2022,123.0
+San Luis Obispo,2023,116.0
+San Luis Obispo,2024,118.0
+San Mateo,2010,275.0
+San Mateo,2011,310.0
+San Mateo,2012,306.0
+San Mateo,2013,311.0
+San Mateo,2014,229.0
+San Mateo,2015,304.0
+San Mateo,2016,325.0
+San Mateo,2017,326.0
+San Mateo,2018,304.0
+San Mateo,2019,322.0
+San Mateo,2020,238.0
+San Mateo,2021,269.0
+San Mateo,2022,265.0
+San Mateo,2023,271.0
+San Mateo,2024,264.0
+Santa Barbara,2010,174.0
+Santa Barbara,2011,164.0
+Santa Barbara,2012,166.0
+Santa Barbara,2013,172.0
+Santa Barbara,2014,178.0
+Santa Barbara,2015,186.0
+Santa Barbara,2016,181.0
+Santa Barbara,2017,170.0
+Santa Barbara,2018,191.0
+Santa Barbara,2019,177.0
+Santa Barbara,2020,146.0
+Santa Barbara,2021,168.0
+Santa Barbara,2022,170.0
+Santa Barbara,2023,166.0
+Santa Barbara,2024,166.0
+Santa Clara,2010,621.0
+Santa Clara,2011,691.0
+Santa Clara,2012,697.0
+Santa Clara,2013,696.0
+Santa Clara,2014,661.0
+Santa Clara,2015,727.0
+Santa Clara,2016,717.0
+Santa Clara,2017,685.0
+Santa Clara,2018,643.0
+Santa Clara,2019,713.0
+Santa Clara,2020,511.0
+Santa Clara,2021,599.0
+Santa Clara,2022,573.0
+Santa Clara,2023,563.0
+Santa Clara,2024,547.0
+Santa Cruz,2010,103.0
+Santa Cruz,2011,106.0
+Santa Cruz,2012,105.0
+Santa Cruz,2013,101.0
+Santa Cruz,2014,77.0
+Santa Cruz,2015,96.0
+Santa Cruz,2016,95.0
+Santa Cruz,2017,94.0
+Santa Cruz,2018,90.0
+Santa Cruz,2019,90.0
+Santa Cruz,2020,74.0
+Santa Cruz,2021,88.0
+Santa Cruz,2022,80.0
+Santa Cruz,2023,82.0
+Santa Cruz,2024,76.0
+Shasta,2010,88.0
+Shasta,2011,85.0
+Shasta,2012,91.0
+Shasta,2013,83.0
+Shasta,2014,79.0
+Shasta,2015,95.0
+Shasta,2016,82.0
+Shasta,2017,92.0
+Shasta,2018,87.0
+Shasta,2019,82.0
+Shasta,2020,76.0
+Shasta,2021,79.0
+Shasta,2022,77.0
+Shasta,2023,84.0
+Shasta,2024,82.0
+Siskiyou,2010,25.0
+Siskiyou,2011,19.0
+Siskiyou,2012,23.0
+Siskiyou,2013,12.0
+Siskiyou,2014,14.0
+Siskiyou,2015,27.0
+Siskiyou,2016,27.0
+Siskiyou,2017,29.0
+Siskiyou,2018,28.0
+Siskiyou,2019,27.0
+Siskiyou,2020,25.0
+Siskiyou,2021,28.0
+Siskiyou,2022,21.0
+Siskiyou,2023,21.0
+Siskiyou,2024,19.0
+Solano,2010,190.0
+Solano,2011,218.0
+Solano,2012,213.0
+Solano,2013,202.0
+Solano,2014,167.0
+Solano,2015,201.0
+Solano,2016,210.0
+Solano,2017,217.0
+Solano,2018,216.0
+Solano,2019,216.0
+Solano,2020,180.0
+Solano,2021,196.0
+Solano,2022,190.0
+Solano,2023,189.0
+Solano,2024,185.0
+Sonoma,2010,189.0
+Sonoma,2011,178.0
+Sonoma,2012,189.0
+Sonoma,2013,208.0
+Sonoma,2014,210.0
+Sonoma,2015,201.0
+Sonoma,2016,209.0
+Sonoma,2017,208.0
+Sonoma,2018,192.0
+Sonoma,2019,204.0
+Sonoma,2020,167.0
+Sonoma,2021,181.0
+Sonoma,2022,176.0
+Sonoma,2023,184.0
+Sonoma,2024,178.0
+Stanislaus,2010,230.0
+Stanislaus,2011,212.0
+Stanislaus,2012,205.0
+Stanislaus,2013,183.0
+Stanislaus,2014,229.0
+Stanislaus,2015,252.0
+Stanislaus,2016,244.0
+Stanislaus,2017,253.0
+Stanislaus,2018,244.0
+Stanislaus,2019,245.0
+Stanislaus,2020,197.0
+Stanislaus,2021,243.0
+Stanislaus,2022,220.0
+Stanislaus,2023,220.0
+Stanislaus,2024,229.0
+Sutter,2010,37.0
+Sutter,2011,37.0
+Sutter,2012,40.0
+Sutter,2013,42.0
+Sutter,2014,24.0
+Sutter,2015,38.0
+Sutter,2016,39.0
+Sutter,2017,39.0
+Sutter,2018,40.0
+Sutter,2019,38.0
+Sutter,2020,30.0
+Sutter,2021,34.0
+Sutter,2022,32.0
+Sutter,2023,34.0
+Sutter,2024,35.0
+Tehama,2010,33.0
+Tehama,2011,28.0
+Tehama,2012,27.0
+Tehama,2013,24.0
+Tehama,2014,26.0
+Tehama,2015,30.0
+Tehama,2016,29.0
+Tehama,2017,29.0
+Tehama,2018,31.0
+Tehama,2019,30.0
+Tehama,2020,26.0
+Tehama,2021,30.0
+Tehama,2022,27.0
+Tehama,2023,26.0
+Tehama,2024,25.0
+Trinity,2010,4.0
+Trinity,2011,4.0
+Trinity,2012,2.0
+Trinity,2013,4.0
+Trinity,2014,4.0
+Trinity,2015,4.0
+Trinity,2016,5.0
+Trinity,2017,5.0
+Trinity,2018,4.0
+Trinity,2019,4.0
+Trinity,2020,4.0
+Trinity,2021,4.0
+Trinity,2022,3.0
+Trinity,2023,3.0
+Trinity,2024,4.0
+Tulare,2010,132.0
+Tulare,2011,139.0
+Tulare,2012,142.0
+Tulare,2013,116.0
+Tulare,2014,155.0
+Tulare,2015,143.0
+Tulare,2016,152.0
+Tulare,2017,167.0
+Tulare,2018,168.0
+Tulare,2019,174.0
+Tulare,2020,149.0
+Tulare,2021,181.0
+Tulare,2022,181.0
+Tulare,2023,194.0
+Tulare,2024,168.0
+Tuolumne,2010,17.0
+Tuolumne,2011,16.0
+Tuolumne,2012,18.0
+Tuolumne,2013,15.0
+Tuolumne,2014,21.0
+Tuolumne,2015,23.0
+Tuolumne,2016,23.0
+Tuolumne,2017,25.0
+Tuolumne,2018,25.0
+Tuolumne,2019,23.0
+Tuolumne,2020,20.0
+Tuolumne,2021,19.0
+Tuolumne,2022,20.0
+Tuolumne,2023,21.0
+Tuolumne,2024,19.0
+Ventura,2010,345.0
+Ventura,2011,335.0
+Ventura,2012,310.0
+Ventura,2013,314.0
+Ventura,2014,358.0
+Ventura,2015,321.0
+Ventura,2016,330.0
+Ventura,2017,338.0
+Ventura,2018,342.0
+Ventura,2019,329.0
+Ventura,2020,262.0
+Ventura,2021,294.0
+Ventura,2022,303.0
+Ventura,2023,302.0
+Ventura,2024,291.0
+Yolo,2010,100.0
+Yolo,2011,87.0
+Yolo,2012,87.0
+Yolo,2013,96.0
+Yolo,2014,90.0
+Yolo,2015,103.0
+Yolo,2016,110.0
+Yolo,2017,113.0
+Yolo,2018,110.0
+Yolo,2019,114.0
+Yolo,2020,91.0
+Yolo,2021,101.0
+Yolo,2022,106.0
+Yolo,2023,99.0
+Yolo,2024,95.0
+Yuba,2010,29.0
+Yuba,2011,30.0
+Yuba,2012,26.0
+Yuba,2013,30.0
+Yuba,2014,20.0
+Yuba,2015,30.0
+Yuba,2016,36.0
+Yuba,2017,34.0
+Yuba,2018,46.0
+Yuba,2019,32.0
+Yuba,2020,35.0
+Yuba,2021,40.0
+Yuba,2022,36.0
+Yuba,2023,34.0
+Yuba,2024,40.0
+Other Counties*,2010,3.0
+Other Counties*,2011,2.0
+Other Counties*,2012,2.0
+Other Counties*,2013,1.0
+Other Counties*,2014,2.0
+Other Counties*,2015,2.0
+Other Counties*,2016,2.0
+Other Counties*,2017,2.0
+Other Counties*,2018,1.0
+Other Counties*,2019,2.0
+Other Counties*,2020,2.0
+Other Counties*,2021,2.0
+Other Counties*,2022,2.0
+Other Counties*,2023,2.0
+Other Counties*,2024,6.0
