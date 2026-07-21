@@ -6,7 +6,7 @@
 
 **Project Advisor:** Dr. John Conzelmann, Professor, Economics Department, Denison University
 
-**Link to Paper:** You can access the paper here.
+**Link to Paper:** You can access the paper [here](https://github.com/buncha29b1/ev-infrastructure-gasoline-air-quality-california-2010-2025/blob/main/Khoi%20Van%20-%20Summer%20Research%20Paper.pdf).
 
 ---
 
