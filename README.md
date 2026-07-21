@@ -2,8 +2,11 @@
 
 **A Distance-Weighted Difference-in-Differences Analysis of NEVI Interstate Fast-Charging Deployment, Gasoline Consumption, and Air Quality Across California Counties**
 
-Khoi Van · Data Analytics Program, Denison University · Summer Research 2026
-Project Advisor: Dr. John Conzelmann
+**Author:** Khoi Van
+
+**Project Advisor:** Dr. John Conzelmann, Professor, Economics Department, Denison University
+
+**Link to Paper:** You can access the paper here.
 
 ---
 
